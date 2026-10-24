@@ -1,0 +1,16 @@
+command-code/agent.json
+  h_2be081509d88e0 1-23
+command-code/icon.svg
+  h_2be081509d88e0 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "79d1ad626f91dc4579e34276965d15871006ed89",
+  "prompts": {},
+  "humans": {
+    "h_2be081509d88e0": {
+      "author": "Hashim Lokasher <hashimlokasher@gmail.com>"
+    }
+  }
+}
